@@ -1,1 +1,1 @@
-# gamestore
+# game-store

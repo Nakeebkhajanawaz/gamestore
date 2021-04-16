@@ -1,0 +1,20 @@
+{
+  "name": "store",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-plugin-react": "^7.21.2",
+    "nodemon": "^2.0.4"
+  }
+}
